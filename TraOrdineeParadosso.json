@@ -1,0 +1,634 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "Tra Ordine e Paradosso",
+                "abbreviation": "TOeP",
+                "full": "TraOrdineeParadosso",
+                "authors": [
+                    "20dr"
+                ],
+                "convertedBy": [
+                    "Lillo"
+                ],
+                "version": "1.0",
+                "url": "",
+                "targetSchema": "1.0"
+            }
+        ],
+        "dateAdded": 0,
+        "dateLastModified": 0
+    },
+    "adventure": [
+        {
+            "name": "Tra Ordine e Paradosso",
+            "id": "TOeP",
+            "source": "TraOrdineeParadosso",
+            "group": "homebrew",
+            "storyline": "None",
+            "published": "2024-06-26",
+            "level": {
+                "start": 3,
+                "end": 11
+            },
+            "contents": [
+                {
+                    "name": "BASI DELL'AVVENTURA",
+                    "headers": [
+                        "NOTE DI AMBIENTAZIONE",
+                        "RETROSCENA PER I MASTER"
+                    ]
+                },
+                {
+                    "name": "Episodio 1 - Dentro l'anello",
+                    "headers": [
+                        "PARTE 1: ARRIVO A Sigil",
+                        "PARTE 2 - La Locanda Della Salma Rosolata",
+                        "PARTE 3: verso il Quartiere Basso",
+                        "PARTE 4 – DERATTIZZAZIONE",
+                        {
+                            "header": "4a: LA CASA (APPENDICE MAPPE: CASA Sigil)",
+                            "depth": 1
+                        },
+                        {
+                            "header": "4b: SOTTO Sigil (APPENDICE MAPPE: SOTTO Sigil)",
+                            "depth": 1
+                        },
+                        "PARTE 5: GIORNO DI PAGA"
+                    ]
+                },
+                {
+                    "name": "Episodio 2 - Giudice, Giuria ...",
+                    "headers": [
+                        "PARTE 1: ARRIVO A Sigil (30 min)",
+                        "PARTE 2: LA LOCANDA DELLA SALMA ROSOLATA (15 min)",
+                        "PARTE 3: verso il Quartiere Basso (30 min)",
+                        "PARTE 4 – DERATTIZZAZIONE (1h 30min)",
+                        {
+                            "header": "4a: LA CASA (20 min) (APPENDICE MAPPE: CASA {@b Sigil})",
+                            "depth": 1
+                        },
+                        {
+                            "header": "4b: SOTTO{@b Sigil} (APPENDICE MAPPE: SOTTO{@b Sigil})",
+                            "depth": 1
+                        },
+                        "PARTE 5: GIORNO DI PAGA"
+                    ]
+                },
+                {
+                    "name": "Episodio 3 - ... Boia",
+                    "headers": [
+                        "PARTE 1: ARRIVO A Sigil (30 min)",
+                        "PARTE 2: LA LOCANDA DELLA SALMA ROSOLATA (15 min)",
+                        "PARTE 3: verso il Quartiere Basso (30 min)",
+                        "PARTE 4 – DERATTIZZAZIONE (1h 30min)",
+                        {
+                            "header": "4a: LA CASA (20 min) (APPENDICE MAPPE: CASA {@b Sigil})",
+                            "depth": 1
+                        },
+                        {
+                            "header": "4b: SOTTO{@b Sigil} (APPENDICE MAPPE: SOTTO{@b Sigil})",
+                            "depth": 1
+                        },
+                        "PARTE 5: GIORNO DI PAGA"
+                    ]
+                },
+                {
+                    "name": "Episodio 4 - Cio che non fortifica ...",
+                    "headers": [
+                        "PARTE 1: ARRIVO A Sigil (30 min)",
+                        "PARTE 2: LA LOCANDA DELLA SALMA ROSOLATA (15 min)",
+                        "PARTE 3: verso il Quartiere Basso (30 min)",
+                        "PARTE 4 – DERATTIZZAZIONE (1h 30min)",
+                        {
+                            "header": "4a: LA CASA (20 min) (APPENDICE MAPPE: CASA {@b Sigil})",
+                            "depth": 1
+                        },
+                        {
+                            "header": "4b: SOTTO{@b Sigil} (APPENDICE MAPPE: SOTTO{@b Sigil})",
+                            "depth": 1
+                        },
+                        "PARTE 5: GIORNO DI PAGA"
+                    ]
+                },
+                {
+                    "name": "Episodio 5 - ...Uccide",
+                    "headers": [
+                        "PARTE 1: ARRIVO A Sigil (30 min)",
+                        "PARTE 2: LA LOCANDA DELLA SALMA ROSOLATA (15 min)",
+                        "PARTE 3: verso il Quartiere Basso (30 min)",
+                        "PARTE 4 – DERATTIZZAZIONE (1h 30min)",
+                        {
+                            "header": "4a: LA CASA (20 min) (APPENDICE MAPPE: CASA {@b Sigil})",
+                            "depth": 1
+                        },
+                        {
+                            "header": "4b: SOTTO{@b Sigil} (APPENDICE MAPPE: SOTTO{@b Sigil})",
+                            "depth": 1
+                        },
+                        "PARTE 5: GIORNO DI PAGA"
+                    ]
+                },
+                {
+                    "name": "Episodio 6 - Un passo indietro...",
+                    "headers": [
+                        "PARTE 1: ARRIVO A Sigil (30 min)",
+                        "PARTE 2: LA LOCANDA DELLA SALMA ROSOLATA (15 min)",
+                        "PARTE 3: verso il Quartiere Basso (30 min)",
+                        "PARTE 4 – DERATTIZZAZIONE (1h 30min)",
+                        {
+                            "header": "4a: LA CASA (20 min) (APPENDICE MAPPE: CASA {@b Sigil})",
+                            "depth": 1
+                        },
+                        {
+                            "header": "4b: SOTTO{@b Sigil} (APPENDICE MAPPE: SOTTO{@b Sigil})",
+                            "depth": 1
+                        },
+                        "PARTE 5: GIORNO DI PAGA"
+                    ]
+                },
+                {
+                    "name": "Episodio 7 - ...Per andare avanti",
+                    "headers": [
+                        "PARTE 1: ARRIVO A Sigil (30 min)",
+                        "PARTE 2: LA LOCANDA DELLA SALMA ROSOLATA (15 min)",
+                        "PARTE 3: verso il Quartiere Basso (30 min)",
+                        "PARTE 4 – DERATTIZZAZIONE (1h 30min)",
+                        {
+                            "header": "4a: LA CASA (20 min) (APPENDICE MAPPE: CASA {@b Sigil})",
+                            "depth": 1
+                        },
+                        {
+                            "header": "4b: SOTTO{@b Sigil} (APPENDICE MAPPE: SOTTO{@b Sigil})",
+                            "depth": 1
+                        },
+                        "PARTE 5: GIORNO DI PAGA"
+                    ]
+                },
+                {
+                    "name": "Episodio 8 - Oltre la soglia",
+                    "headers": [
+                        "Parte 1 - Arrivo a Sigil",
+                        "PARTE 2: LA LOCANDA DELLA SALMA ROSOLATA (15 min)",
+                        "PARTE 3: verso il Quartiere Basso (30 min)",
+                        "PARTE 4 – DERATTIZZAZIONE (1h 30min)",
+                        {
+                            "header": "4a: LA CASA (20 min) (APPENDICE MAPPE: CASA Sigil)",
+                            "depth": 1
+                        },
+                        {
+                            "header": "4b: SOTTO Sigil (APPENDICE MAPPE: SOTTO{@b Sigil})",
+                            "depth": 1
+                        },
+                        "PARTE 5: GIORNO DI PAGA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "adventureData": [
+        {
+            "id": "TOeP",
+            "source": "TraOrdineeParadosso",
+            "data": [
+                {
+                    "type": "section",
+                    "name": "Tra Ordine e Paradosso",
+                    "id": "Tra Ordine e Paradosso",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "name": "BASI DELL'AVVENTURA",
+                            "entries": [
+                                "L'avventura è adatta ad un gruppo di 4-6 personaggi di livello 3. A fine avventura i personaggi effettuano un avanzamento di livello.",
+                                {
+                                    "type": "entries",
+                                    "name": "NOTE DI AMBIENTAZIONE",
+                                    "entries": [
+                                        "Se qualcosa di infinito potesse avere un centro, allora il centro del multiverso sarebbe {@b Sigil}. {@b Sigil} è la {@b Gabbia}, la città impossibile che siede in cima a un picco di altezza infinita al centro delle {@b Terre Esterne}. {@b Sigil} ha forma toroidale, con la parte edificata all'interno dell'anello. L'intera superficie è coperta da edifici e gli edifici sono coperti da altri edifici. Esiste un esteso sottosuolo composto da vecchi tunnel e aree dimenticate.",
+                                        " {@b {@b Sigil}} è tecnicamente parte delle {@b Terre Esterne}, ma segue delle regole proprie. Non è possibile entrare o uscire da {@b Sigil} se non tramite i portali di cui la città è ricchissima. {@b Sigil} è la sede delle grandi fazioni ed il centro della politica planare, ma il potere ultimo sulla città è nelle mani della {@b Signora del Dolore}. Questa figura misteriosa controlla la città, ma interviene solo contro le minacce più gravi - e in quei casi non ha nessuna pietà. Il suo potere è tale da poter impedire l'ingresso a {@b Sigil} alle Potenze e a creature di pari potere; inoltre, nessun esercito può attraversare la città, come ben sanno gli Immondi che hanno tentato di usarla ai fini della {@b Guerra del Sangue}. Tutto questo mantiene la città un luogo neutrale."
+                                    ]
+                                },
+                                {
+                                    "type": "entries",
+                                    "name": "RETROSCENA PER I MASTER",
+                                    "entries": [
+                                        "TO DO"
+                                    ]
+                                },
+                                {
+                                    "type": "entries",
+                                    "name": "Meccanica di avventura",
+                                    "entries": [
+                                        "IL “dJavu”. Un dado  che i pg possono usare pb volte per sessione stile “ispirazione bardica”; a prescindere dal risultato l'uso sblocca un dejavu che “spoilera” il loop temporale. 1-5 d6, 6-8 2d6"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "name": "ep1 - Dentro l'anello",
+                    "id": "ep1",
+                    "entries": [
+                        {
+                            "type": "section",
+                            "name": "PARTE 1 - Arrivo a Sigil",
+                            "id": "PARTE 1 - Arrivo a Sigil",
+                            "entries": [
+                                "{@i durata parte:30 min}",
+                                "leggere o parafrasare il seguente brano",
+                                {
+                                    "type": "insetReadaloud",
+                                    "entries": [
+                                        "Vi riscuotete da un torpore, come se fino ad un attimo fa steste procedendo senza una vera e propria intenzione, ma cullati dal ritmo cadenzato dei vostri passi. Forse un ciottolo sconnesso, forse uno starnuto, o magari un cambio di luce: non sapete cosa abbia attirato la vostra attenzione; sta di fatto che ora siete vigili, e vi rendete conto di star percorrendo una scalinata sospesa nel vuoto abissale. Non riuscite a ricordare come o quando avete iniziato questa ascesa, né quale fosse il punto di partenza o la supposta meta... avete tuttavia una certezza condivisa di essere nella giusta direzione... e che non manca molto. Sotto di voi, la scalinata cambia continuamente aspetto: una semplice scala in legno cede il posto ad una gradinata di rozza pietra, la quale diventa poi una serie di gradini sospesi nel vuoto; il tutto è ben illuminato, per quanto non riusciate a scorgere alcuna fonte di luce sensata. Attorno a voi solo i vostri compagni, di cui riconoscete i volti, per quanto fatichiate ad associarli a dei nomi, delle voci, o dei caratteri. Per un attimo, sentite l'impeto di fermarvi e confermare la vostra identità ai vostri compagni"
+                                    ]
+                                },
+                                "lasciate qualche minuto ai giocatori per presentare i propri pg, descriverli sommariamente per estetica, tic o abitudini evidenti, e carattere sommario. Quindi riprendete a leggere o parafrasare",
+                                {
+                                    "type": "insetReadaloud",
+                                    "entries": [
+                                        "Una volta scambiate, queste informazioni vi risultano quanto mai scontate: è OVVIO che siete voi, siete SEMPRE stati voi, siete... voi, insomma, che diamine! Scosso ogni dubbio con una risata a tratti nervosa, riprendete l'ascesa. Pochi minuti dopo, la scalinata si interrompe, finendo in una porta di dimensioni e aspetto modesti... una normalissima porta qualsiasi. Il più vicino di voi afferra la maniglia, e spinge...",
+                                        " ",
+                                        "...un lampo accecante vi avvolge, mentre attraversate l'uscio. Dura un istante, ma vi disorienta. Insieme ad esso, anche gli altri vostri sensi vengono inondati: una cacofonia di suoni e voci di ogni timbro e volume riempie le vostre orecchie; nei vostri nasi avvertite un odore pungente e sgradevole, spruzzato qua e la di vaghe note a tratti più acri, a tratti più dolciastre; nella vostra bocca un retrogusto marcescente si insinua tra le papille gustative; i piedi poggiano su una superficie solida e stabile, simile alla roccia, mentre le mani di ognuno di voi, estese alla ricerca di un sostegno, si soffermano chi su una superficie metallica, chi di legno, chi pietrosa. Quando gli occhi si aggiustano alla luce, lo spettacolo che vi si para davanti è mozzafiato: un'immensa metropoli, fatta di edifici fatiscenti appesi e appoggiati gli uni agli altri in un equilibrio quantomai precario, le cui vie e strade si snodano labirintiche in ogni direzione, senza alcuna apparente logica; alzando lo sguardo vedete altri edifici \"sopra di voi\", mentre la città procede curvandosi in se stessa a formare un immenso anello, di cui a malapena vedete l'estremità opposta. Le strade sono popolate da una enorme varietà di creature più o meno senzienti, un enorme calderone di qualunque cosa il Multiverso abbia mai concepito, tale da sfidare la fantasia più spinta. Siete convinti di aver scorto celestiali e demoni andare a braccetto, potreste giurare di che un cubo gelatinoso cavalcato da un blob abbia appena attraversato la strada, e quelli sono per caso goblin in giacca e cravatta?",
+                                        " ",
+                                        "Mentre i vostri 5 sensi si adattano all'essere investiti da tanti stimoli, un singolo nome appare nelle vostre menti: Sigil, la città dei portali. Una vista esotica e aliena, eppure stranamente familiare."
+                                    ]
+                                },
+                                "scegliete un personaggio che abbia almeno una di queste caratteristiche: classe {@b LADRO} o {@b BARDO}, background {@b CANAGLIA}, {@b CAMPIONE DEL POPOLO},{@b CRIMINALE}, o simili. Fate fare loro un tiro di {@b STORIA} o {@b SOPRAVVIVENZA}, a {@b CD10}. Promuovete l'uso di un {@b dJavu }per la prova.",
+                                "Leggete",
+                                {
+                                    "type": "insetReadaloud",
+                                    "entries": [
+                                        "vi viene in mente, e di questo informate seduta stante i vostri compagni, che questo di fatto è un preciso quartiere di Sigil, meglio noto come l'Alveare: un quartiere malfamato, popolato da criminali e viaggiatori Planari impazziti."
+                                    ]
+                                },
+                                "In caso di {@b dJavu} aggiungete",
+                                {
+                                    "type": "insetReadaloud",
+                                    "entries": [
+                                        "mentre scavate nella vostra memoria i dettagli di questo \"angolo\" di Sigil, avete una netta sensazione di deja vu: come se foste stati in questo esatto punto, di fronte ai vostri esatti compagni, parlando delle stesse esatte cose. Dura solo un attimo."
+                                    ]
+                                },
+                                "dopo una pausa, proseguite",
+                                {
+                                    "type": "insetReadaloud",
+                                    "entries": [
+                                        "Improvvisamente tornate a sentire quella spinta a muovervi verso una precisa direzione, solo che stavolta avete anche una vaga idea della meta: una taverna, dove poter ottenere qualche lavoretto. Non sapete da dove venga questa consapevolezza, ma effettivamente controllando i vostri averi vi rendete conto di non disporre di molto denaro, e concordate che questo non sia saggio, da queste parti. Dirigete dunque i vostri passi nel marasma della cittadinanza di Sigil. Dopo pochi minuti e alcune precise svolte, raggiungete dunque la vostra meta: il Bar della Salma Rosolata."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "section",
+                            "name": "PARTE 2 - La Locanda Della Salma Rosolata",
+                            "id": "p2",
+                            "entries": [
+                                "{@i durata parte:15 min}",
+                                {
+                                    "type": "insetReadaloud",
+                                    "entries": [
+                                        "La locanda è sita proprio al di sopra di alcune fornaci, e delle fornaci sfrutta il calore: il pavimento fatto a grate, unito alle pareti e mobili di metallo, trasmettono costantemente il calore dal basso, mentre l'aria risulta calda ma asciutta. Al centro della locanda, si trova ciò che le da il nome: un corpo umanoide sospeso a mezz'aria e avvolto da fiamme inestinguibili."
+                                    ]
+                                },
+                                "un giocatore che voglia fare un tiro di {@b STORIA} a {@b CD15} potrà ricordare che il \"cadavere\" è in realtà il corpo sospeso di Ignus, un pazzo mago piromane che anni addietro aveva dato l'Alveare alle fiamme, ed era stato punito collegandolo perpetuamente al Piano delle Fiamme; Successivamente la locanda è stata costruita attorno al corpo. L’utilizzo del dJavu in questo tiro sblocca un flash in cui il giocatore che ha fatto il tiro vede un diverso compagno (che non ha tirato) condividere la storia di Ignus, nonostante l'altro giocatore stavolta non abbia tirato, o magari abbia fallito la prova.",
+                                "{@b Barkis}, il locandiere, è un umano di mezza età avanzata, i cui lineamenti e sguardo tradiscono una lunga e mai noiosa vita nella città. A prescindere da quanto esotiche siano le combinazioni di pg che gli si pareranno davanti, non alza mai l'ombra di un sopracciglio... e comunque sarebbero meno strani dei suoi tipici avventori. Risponde alle domande dei pg con tono infastidito e meno parole possibile, arrivando a commentare tra se e se \"maledetti primini...\" ({@b PRIMINI} = persone arrivate da poco a Sigil, che tradiscono poca esperienza di viaggio Planare). Tuttavia, alla richiesta di lavoro si blocca per un istante, come se fosse confuso da qualcosa; lentamente, afferra da sotto al bancone un manifesto di missione, chiedendosi perché non lo abbia appeso con gli altri.",
+                                "La missione è la seguente: un abitante del Quartiere Basso (quartiere popolare di Sigil, altrettanto povero e sovraffollato ma meno malfamato dell'Alveare), un certo {@b Kedun O’Qual}, ha da poco ereditato una casa, ma all'atto di stabilirvisi, la ha trovata invasa dai {@b Cranium Rats}. Offre pertanto {@b 300 mo} per la disinfestazione dell'immobile.",
+                                "Con un tiro di {@b NATURA} o {@b ARCANA} a CD13 i pg possono sapere che i {@creature cranium rat|mpmm|cranium rats} sono delle creature simili ai ratti, con il cranio scoperto e il cervello visibile. Sono dotati di poteri psionici, si muovono in sciami, e tanto più numeroso è lo sciame, tanto più potenti sono i loro poteri psionici.",
+                                "{@b Barkis} può dare loro indicazioni su come raggiungere l'abitazione, inoltre li informa di aver già ricevuto il pagamento, e che sarà lui a dare loro il compenso a missione avvenuta, se riporteranno il manifesto firmato dal committente."
+                            ]
+                        },
+                        {
+                            "type": "section",
+                            "name": "PARTE 3 - verso il Quartiere Basso",
+                            "id": "p3",
+                            "entries": [
+                                "{@i durata parte:30 min}",
+                                "I pg, usciti dalla Salma Rosolata, si dirigono verso il quartiere basso.",
+                                "Leggere",
+                                {
+                                    "type": "insetReadaloud",
+                                    "entries": [
+                                        "Mentre vi incamminate, la cacofonica quotidianità di Sigil si manifesta nuovamente nelle sue familiari stranezze: banchetti di cibo da strada dalla dubbia igiene offrono untuosi tagli di carni dai colori sgargianti accanto a figuri incappucciati che raccolgono cadaveri dalla strada e li ammassano su un carretto dotato di una campanella che tinna al ritmo del loro ciondolare; aggregazioni di losche facce con varie quantità di occhi (non tutti funzionanti) si sfidano nei vicoli bui ad un curioso gioco di equilibrio di una lama appuntita sulla lingua. Mentre vi guardate attorno non vi accorgete della figura che, avvicinatasi, attira la vostra attenzione"
+                                    ]
+                                },
+                                "I pg incontrano un cittadino membro di una delle Fazioni. Scegliete o tirate 1d6 sulla tabella {@b INCONTRO ALVEARE}",
+                                {
+                                    "type": "table",
+                                    "colStyles": [
+                                        "col-1 text-center",
+                                        "col-11"
+                                    ],
+                                    "rows": [
+                                        [
+                                            "DADO",
+                                            "TABELLA INCONTRO ALVEARE"
+                                        ],
+                                        [
+                                            "1",
+                                            "{@b ARALDI DELLA POLVERE:} una {@b mezz'orca} vestita di stracci grigi, con un grembiule di cuoio cui sono appesi strumenti da imbalsamatore. Ci tiene a ricordare ai pg che prima o poi tutto muore, anche loro, che forse sono già morti e non lo sanno, e tanto vale accettarlo."
+                                        ],
+                                        [
+                                            "2",
+                                            "{@b MANI DEL CAOS:} un {@creature Bugbear|mm|bugbear} vestito di vari lembi di cuoio tinti di nero e cuciti assieme, coperto dalla testa ai piedi di borchie metalliche appuntite, e dal fare isterico e nevrotico, offre una {@i BACCHETTA DI {@spell Magic Missile}} a chiunque accetti di sparargliela tutta in faccia (dopo l'uso, la bacchetta si rompe irreparabilmente)"
+                                        ],
+                                        [
+                                            "3",
+                                            "{@b ATHAR:} un harengon molto elegante e con un paio di grossi occhiali tondi sfida i pg ad una disquisizione teologica \"dio c'è? e se c'è, dov'è? e se dov'è, chi è? e se chi è, perché? eh?\""
+                                        ],
+                                        [
+                                            "4",
+                                            "{@b ORDINE TRASCENDENTE:} una {@creature goliath warrior|idrotf|goliath} e un {@creature minotaur|MM|minotauro} in abiti leggeri invitano i pg ad una corsa ad ostacoli lungo i vicoli per dimostrare la superiorità del loro addestramento che unisce corpo e mente. sono molto insistenti."
+                                        ],
+                                        [
+                                            "5",
+                                            "{@b SOCIETA' DELLE SENSAZIONI:} un gruppo molto variopinto sia per diversità razziale che per gli abiti che porta, sparge petali di fiori che al contatto col terreno diventano farfalle che volano verso l'alto, accompagnando il volo con della musica. Tra di loro, un'elfa {@creature Shadar-kai Shadow Dancer|Mpmm|Shadar Kai} annuncia l'ennesima celebrazione alla Sala delle Feste, nel Quartiere Amministrativo."
+                                        ],
+                                        [
+                                            "6",
+                                            "{@b CUSTODI DEL FATO:} 3 {@creature kobold|mm|koboldi} che indossano abiti fatti con ossa e metalli arrugginiti discutono animatamente sull'inevitabile morte entropica dell'universo. Incapaci di accordarsi, coinvolgono i pg: il multiverso sta marcendo troppo lentamente, troppo velocemente, o alla velocità necessaria e giusta?"
+                                        ]
+                                    ]
+                                },
+                                "una volta risolto l'incontro, leggete",
+                                {
+                                    "type": "insetReadaloud",
+                                    "entries": [
+                                        "procedendo, man mano l'ambiente muta drasticamente: gli edifici si fanno lievemente meno fatiscenti, per quanto sempre improbabilmente impilati, la popolazione qui sembra più tranquilla... siete nel Quartiere Basso. A pochi passi dalla vostra meta, però, incontrate una vista che stona molto con il resto del quartiere: al centro di un enorme piazzale giacciono le rovine quella che in tempi remoti deve essere stata una imponente costruzione piena di guglie tendenti verso l'alto, sormontata da file di colonne ad arco che la avvolgevano. Il luogo brulica di persone che indossano abiti scuri adornati da catenine d'argento, e qua e la quelli che direste essere pezzi infranti di simboli sacri, alcuni anche di divinità a voi note"
+                                    ]
+                                },
+                                "un tiro di {@b STORIA} a {@b CD10} riconosce l'edificio come {@b IL TEMPIO INFRANTO}, sede della Fazione degli {@b Athar}. A {@b CD15} permette di sapere che una volta era un tempio dedicato ad una divinità, l'unica che abbia mai messo piede a {@b Sigil}, e il cui nome è fatto grave divieto pronunciare, dopo che ha sfidato la {@b Signora del Dolore}.",
+                                "I pg giungono infine all'abitazione del committente e incontrano {@b Kedun O’Qual}: è un umanoide bipede, probabilmente un umano, non fosse per il fatto che è bendato dalla testa ai piedi; i pochi lembi di carne che spuntano dalle bende sono grigiastri, gli occhi appaiono vitrei, e la mascella sembra lievemente disassata. Un {@b PALADINO} che usi {@b DIVINE SENSE} si rende conto di avere di fronte un non morto.",
+                                "Kedun è molto cordiale e gioviale, e accoglie i pg vigorosamente: è molto grato del loro aiuto e li prega di fare quanto prima. Fornisce anche una piantina della casa su richiesta. Se interrogato, rivela di essere un nonmorto, il cui vero nome ha dimenticato molto tempo fa: ritiene che il nome {@b KEDUN O’QUAL} sia adeguato per un umanoide, per quello lo ha adottato.",
+                                "i pg entrano dunque nella casa"
+                            ]
+                        },
+                        {
+                            "type": "section",
+                            "name": "PARTE 4 - Derattizzazione",
+                            "id": "p4",
+                            "entries": [
+                                "{@i durata parte:1h 30 min}",                                
+                                "L’abitazione fatiscente ha ampi segni di essere abbandonata da tempo, e il suo stato fa dubitare abbia più alcuna utilità. L’ingresso/sala è ampio, e attorno ad esso ci sono tutte le altre stanze: a sinistra la cucina, 4 camere da letto intorno, e un ripostiglio in alto a sinistra. Una prova di {@b indagare} o {@b sopravvivenza} a {@b CD12} permette di trovare escrementi di topo sparsi qua e la, ma tutti sempre fuori vista, come nascosti. Avvicinandosi al ripostiglio, un leggero squittire rivela la presenza di una botola che si apre sulla cantina.",
+"In cantina i pg trovano 5 {@creature cranium rat|mpmm|cranium rats} che stanno mordicchiando alcuni vecchi sacchi di tela. Se attaccati, essi rispondono fino a che 2 di loro non sono uccisi, poi fuggono verso il fondo del muro, sparendo in un foro. I pg possono avvicinarsi al muro e studiarlo, rendendosi conto che battendo suona cavo e che sta su a malapena; può essere abbattuto facilmente con una prova di {@b ATLETICA} CD10."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "monster": [
+        {
+            "name": "Wererat",
+            "group": [
+                "Lycanthropes"
+            ],
+            "source": "Tra Ordine e Paradosso",
+            "page": 209,
+            "size": [
+                "M"
+            ],
+            "type": {
+                "type": "humanoid",
+                "tags": [
+                    "human",
+                    "shapechanger"
+                ]
+            },
+            "alignment": [
+                "L",
+                "E"
+            ],
+            "ac": [
+                12
+            ],
+            "hp": {
+                "average": 33,
+                "formula": "6d8 + 6"
+            },
+            "speed": {
+                "walk": 30
+            },
+            "str": 10,
+            "dex": 15,
+            "con": 12,
+            "int": 11,
+            "wis": 10,
+            "cha": 8,
+            "skill": {
+                "perception": "+2",
+                "stealth": "+4"
+            },
+            "senses": [
+                "darkvision 60 ft. (rat form only)"
+            ],
+            "passive": 12,
+            "languages": [
+                "Common (can't speak in rat form)"
+            ],
+            "cr": "2",
+            "trait": [
+                {
+                    "name": "Shapechanger",
+                    "entries": [
+                        "The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+                    ]
+                },
+                {
+                    "name": "Keen Smell",
+                    "entries": [
+                        "The wererat has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
+                    ]
+                }
+            ],
+            "action": [
+                {
+                    "name": "Multiattack (Humanoid or Hybrid Form Only)",
+                    "entries": [
+                        "The wererat makes two attacks, only one of which can be a bite."
+                    ]
+                },
+                {
+                    "name": "Bite (Rat or Hybrid Form Only)",
+                    "entries": [
+                        "{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. If the target is a humanoid, it must succeed on a {@dc 11} Constitution saving throw or be cursed with wererat lycanthropy."
+                    ]
+                },
+                {
+                    "name": "Shortsword (Humanoid or Hybrid Form Only)",
+                    "entries": [
+                        "{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+                    ]
+                },
+                {
+                    "name": "Hand Crossbow (Humanoid or Hybrid Form Only)",
+                    "entries": [
+                        "{@atk rw} {@hit 4} to hit, range 30/120 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+                    ]
+                }
+            ],
+            "variant": [
+                {
+                    "type": "variant",
+                    "name": "Nonhuman Lycanthropes",
+                    "entries": [
+                        "The statistics presented in this section assume a base creature of human. However, you can also use the statistics to represent nonhuman lycanthropes, adding verisimilitude by allowing a nonhuman lycanthrope to retain one or more of its humanoid racial traits. For example, an elf werewolf might have the Fey Ancestry trait."
+                    ]
+                }
+            ],
+            "environment": [
+                "forest",
+                "urban"
+            ],
+            "soundClip": {
+                "type": "external",
+                "url": "https://5e.tools/audio/bestiary/wererat.mp3"
+            },
+            "attachedItems": [
+                "hand crossbow|phb",
+                "shortsword|phb"
+            ],
+            "traitTags": [
+                "Keen Senses",
+                "Shapechanger"
+            ],
+            "senseTags": [
+                "D"
+            ],
+            "actionTags": [
+                "Multiattack"
+            ],
+            "languageTags": [
+                "C",
+                "CS"
+            ],
+            "miscTags": [
+                "MW",
+                "MLW",
+                "RW"
+            ],
+            "hasFluff": true,
+            "hasFluffImages": true,
+            "tokenUrl": "https://5e.tools/img/MM/Wererat.png",
+            "fluff": {
+                "name": "Wererat",
+                "source": "MM",
+                "entries": [
+                    {
+                        "type": "entries",
+                        "entries": [
+                            {
+                                "type": "entries",
+                                "entries": [
+                                    "Wererats are cunning lycanthropes with sly, avaricious personalities. They are wiry and twitchy in humanoid form, with thin hair and darting eyes. In their humanoid and hybrid forms, wererats prefer light weapons and use ambush tactics rather than fighting as a pack. Although a wererat can deliver a nasty bite in its rat form, it favors that form for stealthy infiltration and escape rather than combat.",
+                                    "A wererat clan operates much like a thieves' guild, with wererats transmitting their curse only to creatures they want to induct into the clan. Wererats that are accidentally cursed or break loose from the clan's control are quickly hunted down and killed.",
+                                    "Wererat clans are found throughout urban civilization, often dwelling in cellars and catacombs. These creatures are common in the sewers beneath major cities, viewing those subterranean areas as their hunting grounds. Rats and giant rats are commonly found living among wererats."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "section",
+                        "name": "Lycanthropes",
+                        "entries": [
+                            "One of the most ancient and feared of all curses, lycanthropy can transform the most civilized humanoid into a ravening beast. In its natural humanoid form, a creature cursed by lycanthropy appears as its normal self. Over time, however, many lycanthropes acquire features suggestive of their animal form. In that animal form, a lycanthrope resembles a powerful version of a normal animal. On close inspection, its eyes show a faint spark of unnatural intelligence and might glow red in the dark.",
+                            "Evil lycanthropes hide among normal folk, emerging in animal form at night to spread terror and bloodshed, especially under a full moon. Good lycanthropes are reclusive and uncomfortable around other civilized creatures, often living alone in wilderness areas far from villages and towns.",
+                            {
+                                "type": "entries",
+                                "entries": [
+                                    {
+                                        "type": "entries",
+                                        "name": "Curse of Lycanthropy",
+                                        "entries": [
+                                            "A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A {@spell remove curse} spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.",
+                                            "A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.",
+                                            "Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak."
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "inset",
+                                "name": "Player Characters as Lycanthropes",
+                                "entries": [
+                                    "A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope's speeds in non-humanoid form, damage immunities, traits, and actions that don't involve equipment. The character is proficient with the lycanthrope's natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope's statistics. The character can't speak while in animal form.",
+                                    "A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope's proficiency bonus + the lycanthrope's Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope. The DM is free to decide that a change in alignment places the character under DM control until the curse of lycanthropy is removed.",
+                                    "The following information applies to specific lycanthropes.",
+                                    {
+                                        "type": "entries",
+                                        "entries": [
+                                            {
+                                                "type": "entries",
+                                                "name": "{@creature Werebear}",
+                                                "entries": [
+                                                    "The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength."
+                                                ]
+                                            },
+                                            {
+                                                "type": "entries",
+                                                "name": "{@creature Wereboar}",
+                                                "entries": [
+                                                    "The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier."
+                                                ]
+                                            },
+                                            {
+                                                "type": "entries",
+                                                "name": "{@creature Wererat}",
+                                                "entries": [
+                                                    "The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity."
+                                                ]
+                                            },
+                                            {
+                                                "type": "entries",
+                                                "name": "{@creature Weretiger}",
+                                                "entries": [
+                                                    "The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier."
+                                                ]
+                                            },
+                                            {
+                                                "type": "entries",
+                                                "name": "{@creature Werewolf}",
+                                                "entries": [
+                                                    "The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength."
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "images": [
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "internal",
+                            "path": "bestiary/MM/Wererat.webp"
+                        },
+                        "credit": "Conceptopolis"
+                    }
+                ]
+            },
+            "vulnerable": [
+                {
+                    "vulnerable": [
+                        "bludgeoning",
+                        "piercing",
+                        "slashing"
+                    ],
+                    "note": "from nonmagical attacks that aren't silvered",
+                    "cond": true
+                }
+            ],
+            "damageTags": [
+                "P"
+            ],
+            "savingThrowForced": [
+                "constitution"
+            ]
+        }
+    ]
+}
